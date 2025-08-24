@@ -1,3 +1,6 @@
+python 3.10
+
+
 <div align="center">
 
 ![logo](./images/logo.png)
